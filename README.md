@@ -5,6 +5,7 @@
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
 ### 1. Video tay gắp hoạt động
+https://github.com/user-attachments/assets/9f1505f0-6eeb-4c5b-bbb1-fbe7f0c41f89
 ### 2. Hoàn thiện và đặt mạch
 #### Phần mạch:
 - Kích thước 45mmx45mm
